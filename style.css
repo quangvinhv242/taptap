@@ -1,0 +1,104 @@
+body{
+    background-image: url('/C:/gitq/reposit2/img/backgr_1.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+header{
+    margin-top: 10px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+#tieuDe{
+    background-color: #F4A460;
+    border-style: solid;
+    border-color: #FF98EA;
+    border-radius: 15px;
+    height: auto;
+    width: 50%;
+    color: #e60808;
+    font-size: 25px;
+    padding: 2px;
+    margin-bottom: 30px;
+}
+table{ border-color: #FF98EA;
+    width: 100%;
+    height: 120px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    margin-bottom: 20px;
+}
+fieldset h2{ width: 100%;
+    text-align: center;
+
+}
+#tab_1 table{
+    width: 100%;
+    height: 120px;
+    border-color: #FF98EA;
+}
+td.cot_1{
+    color: #cc5f92;
+    font-size: 18px;
+    line-height: 2;
+    text-align: left;
+    left: 10px;
+    font-family: Florence, cursive;
+    font-weight: 800;
+    padding-left: 10px;
+    border-color: #FF98EA;
+    
+}
+fieldset{
+    border-color: #FF98EA;
+    margin-bottom: 25px;
+}
+.btcss_1{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: #FF98EA;
+    font-weight: 500;
+    font-family: Florence, cursive;
+    margin: 10px 20px 15px 25px;
+    color: #FF0021;
+    background-color: #FFFACD;
+}
+#container_1{
+    margin-top: 40px;
+}
+#table_2{
+    border-color: #FF98EA;
+}
+#tieuDe_1{
+    background:#F4A460; 
+    font-weight:700; 
+    font-size:20px; 
+    border-style:solid; 
+    line-height:2; 
+    border-color: #FF98EA; 
+    border-radius:15px; 
+    height:50px; 
+    width: 70%; 
+    color: #e60808;
+    font-family: Florence, cursive;
+}
+td.cont_1{ color: #e60808;
+    font-size: 20px;
+    text-align: center;
+    font-family: Florence , cursive;
+    font-weight: 600;
+    background-color: #F4A460;
+}
+td.cont_2{ line-height: 2;
+    font-size: 15px;
+    text-align: left;
+    padding: 17px;
+    color: #FF4500;
+    font-weight: 600;
+    font-style: italic;
+    background-color: #FFFACD;
+}
